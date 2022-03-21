@@ -1,1 +1,2 @@
-# Angular_thegioidochoi
+# The gioi do choi
+Framework: Angular
